@@ -1,6 +1,7 @@
 # Frontend for SPA «ПомойАвто»
 
 It is a frontend for single page application. Reach JavaScript is present.
+This is example of utilising [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
 
 # Deploy on localhost
 
@@ -11,11 +12,7 @@ cd static/
 python3 -m http.server
 ```
 
-Open page [127.0.0.1:8000](http://127.0.0.1:8000) in browser.
-
-# Deploy on production server
-
-[TODO. Deploy scripts will written later]
+Open page [127.0.0.1:9000](http://127.0.0.1:9000) in browser.
 
 # Project Goals
 
